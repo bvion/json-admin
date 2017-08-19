@@ -1,0 +1,31 @@
+{
+  "name": "@aviteng/json-admin",
+  "version": "0.0.1",
+  "description": "Dynamic JSON Config Administration Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviteng/json-admin.git"
+  },
+  "keywords": [
+    "json-admin",
+    "json",
+    "editor",
+    "admin",
+    "node",
+    "config"
+  ],
+  "author": "Aviteng Dev Team",
+  "dependencies": {
+  "async": "^2.1.5",
+   "express": "^4.15.2" 
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviteng/json-admin/issues"
+  },
+  "homepage": "https://github.com/aviteng/json-admin#readme"
+}
